@@ -1,0 +1,14 @@
+analysis_type,true_label,predicted_label,count,trial,query_index,closest_distance
+confusion,Trouser,Dress,2,,,
+confusion,Pullover,Shirt,1,,,
+confusion,Dress,Trouser,1,,,
+confusion,Dress,Shirt,1,,,
+confusion,Ankle boot,Sneaker,1,,,
+confusion,Coat,Pullover,1,,,
+hardest_failure,Ankle boot,Sneaker,,16,3685,0.115
+hardest_failure,Pullover,Shirt,,0,836,0.1196
+hardest_failure,Dress,Trouser,,11,7140,0.1356
+hardest_failure,Trouser,Dress,,6,8529,0.1801
+hardest_failure,Dress,Shirt,,14,2695,0.2641
+hardest_failure,Trouser,Dress,,18,8503,0.2736
+hardest_failure,Coat,Pullover,,17,1911,0.2779

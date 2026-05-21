@@ -1,0 +1,12 @@
+analysis_type,true_label,predicted_label,count,trial,query_index,closest_distance
+confusion,9,8,2,,,
+confusion,8,5,1,,,
+confusion,0,6,1,,,
+confusion,6,5,1,,,
+confusion,3,0,1,,,
+hardest_failure,0,6,,62,8325,0.2158
+hardest_failure,9,8,,59,7874,0.3346
+hardest_failure,8,5,,44,6578,0.41
+hardest_failure,9,8,,13,7874,0.4119
+hardest_failure,6,5,,127,7078,0.7001
+hardest_failure,3,0,,145,5955,0.7139

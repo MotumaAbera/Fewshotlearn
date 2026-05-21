@@ -1,0 +1,17 @@
+{
+  "dataset": "Ethiopian Cultural Clothing and Textile",
+  "device": "cpu",
+  "best_epoch": 1,
+  "best_val_loss": 0.0028725265680501857,
+  "final_train_loss": 0.2319824917940423,
+  "final_val_loss": 0.0028725265680501857,
+  "final_train_pair_accuracy": 0.6666666666666666,
+  "final_val_pair_accuracy": 1.0,
+  "one_shot_accuracy": 1.0,
+  "embedding_dim": 32,
+  "margin": 1.0,
+  "epochs_ran": 1,
+  "one_shot_way": 5,
+  "effective_one_shot_way": 2,
+  "one_shot_trials": 6
+}

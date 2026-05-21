@@ -1,0 +1,87 @@
+{
+  "failure_count": 7,
+  "total_trials": 20,
+  "confusion_rows": [
+    {
+      "true_label": "Trouser",
+      "predicted_label": "Dress",
+      "count": 2
+    },
+    {
+      "true_label": "Pullover",
+      "predicted_label": "Shirt",
+      "count": 1
+    },
+    {
+      "true_label": "Dress",
+      "predicted_label": "Trouser",
+      "count": 1
+    },
+    {
+      "true_label": "Dress",
+      "predicted_label": "Shirt",
+      "count": 1
+    },
+    {
+      "true_label": "Ankle boot",
+      "predicted_label": "Sneaker",
+      "count": 1
+    },
+    {
+      "true_label": "Coat",
+      "predicted_label": "Pullover",
+      "count": 1
+    }
+  ],
+  "hardest_rows": [
+    {
+      "trial": 16,
+      "query_index": 3685,
+      "true_label": "Ankle boot",
+      "predicted_label": "Sneaker",
+      "closest_distance": 0.115
+    },
+    {
+      "trial": 0,
+      "query_index": 836,
+      "true_label": "Pullover",
+      "predicted_label": "Shirt",
+      "closest_distance": 0.1196
+    },
+    {
+      "trial": 11,
+      "query_index": 7140,
+      "true_label": "Dress",
+      "predicted_label": "Trouser",
+      "closest_distance": 0.1356
+    },
+    {
+      "trial": 6,
+      "query_index": 8529,
+      "true_label": "Trouser",
+      "predicted_label": "Dress",
+      "closest_distance": 0.1801
+    },
+    {
+      "trial": 14,
+      "query_index": 2695,
+      "true_label": "Dress",
+      "predicted_label": "Shirt",
+      "closest_distance": 0.2641
+    },
+    {
+      "trial": 18,
+      "query_index": 8503,
+      "true_label": "Trouser",
+      "predicted_label": "Dress",
+      "closest_distance": 0.2736
+    },
+    {
+      "trial": 17,
+      "query_index": 1911,
+      "true_label": "Coat",
+      "predicted_label": "Pullover",
+      "closest_distance": 0.2779
+    }
+  ]
+}

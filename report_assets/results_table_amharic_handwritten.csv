@@ -1,0 +1,8 @@
+metric,value
+Dataset,Amharic Handwritten Characters
+Best Validation Loss,0.1801
+Final Train Pair Accuracy,0.7623
+Final Validation Pair Accuracy,0.7365
+One-Shot Accuracy,0.525
+Embedding Dimension,32
+Contrastive Margin,1.0

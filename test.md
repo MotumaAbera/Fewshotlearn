@@ -1,0 +1,1 @@
+cd /d "C:\Users\coop\OneDrive\Documents\Desktop\Collection Latest\Few Shot Learning\siamese-few-shot-learning" && "C:\Users\coop\AppData\Local\Programs\Python\Python311\Scripts\streamlit.exe" run app.py --server.headless true --server.address 127.0.0.1 --server.port 8501

@@ -1,0 +1,16 @@
+{
+  "dataset": "Amharic Handwritten Characters",
+  "device": "cpu",
+  "best_epoch": 5,
+  "best_val_loss": 0.18006534326076507,
+  "final_train_loss": 0.16428860358397165,
+  "final_val_loss": 0.18006534326076507,
+  "final_train_pair_accuracy": 0.7623333333333333,
+  "final_val_pair_accuracy": 0.7365,
+  "one_shot_accuracy": 0.525,
+  "embedding_dim": 32,
+  "margin": 1.0,
+  "epochs_ran": 5,
+  "one_shot_way": 5,
+  "one_shot_trials": 200
+}

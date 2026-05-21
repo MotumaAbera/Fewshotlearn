@@ -1,0 +1,8 @@
+metric,value
+Dataset,MNIST
+Best Validation Loss,0.0496
+Final Train Pair Accuracy,0.9697
+Final Validation Pair Accuracy,0.9505
+One-Shot Accuracy,0.97
+Embedding Dimension,32
+Contrastive Margin,1.0

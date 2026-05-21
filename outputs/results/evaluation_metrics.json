@@ -1,0 +1,15 @@
+{
+  "device": "cpu",
+  "best_epoch": 5,
+  "best_val_loss": 0.049595869094133375,
+  "final_train_loss": 0.044666661113500594,
+  "final_val_loss": 0.049595869094133375,
+  "final_train_pair_accuracy": 0.9696666666666667,
+  "final_val_pair_accuracy": 0.9505,
+  "one_shot_accuracy": 0.97,
+  "embedding_dim": 32,
+  "margin": 1.0,
+  "epochs_ran": 5,
+  "one_shot_way": 5,
+  "one_shot_trials": 200
+}

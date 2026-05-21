@@ -1,0 +1,183 @@
+{
+  "failure_count": 62,
+  "total_trials": 200,
+  "confusion_rows": [
+    {
+      "true_label": "Tops",
+      "predicted_label": "Shirts",
+      "count": 7
+    },
+    {
+      "true_label": "Jeans",
+      "predicted_label": "Trousers",
+      "count": 7
+    },
+    {
+      "true_label": "Shorts",
+      "predicted_label": "Jeans",
+      "count": 7
+    },
+    {
+      "true_label": "Tshirts",
+      "predicted_label": "Shirts",
+      "count": 7
+    },
+    {
+      "true_label": "Tops",
+      "predicted_label": "Tshirts",
+      "count": 5
+    },
+    {
+      "true_label": "Trousers",
+      "predicted_label": "Jeans",
+      "count": 4
+    },
+    {
+      "true_label": "Shirts",
+      "predicted_label": "Tshirts",
+      "count": 3
+    },
+    {
+      "true_label": "Tops",
+      "predicted_label": "Kurtas",
+      "count": 3
+    },
+    {
+      "true_label": "Shorts",
+      "predicted_label": "Trousers",
+      "count": 3
+    },
+    {
+      "true_label": "Trousers",
+      "predicted_label": "Shorts",
+      "count": 3
+    },
+    {
+      "true_label": "Shorts",
+      "predicted_label": "Briefs",
+      "count": 2
+    },
+    {
+      "true_label": "Jeans",
+      "predicted_label": "Shorts",
+      "count": 2
+    },
+    {
+      "true_label": "Shirts",
+      "predicted_label": "Tops",
+      "count": 1
+    },
+    {
+      "true_label": "Briefs",
+      "predicted_label": "Shirts",
+      "count": 1
+    },
+    {
+      "true_label": "Kurtas",
+      "predicted_label": "Shirts",
+      "count": 1
+    },
+    {
+      "true_label": "Tshirts",
+      "predicted_label": "Tops",
+      "count": 1
+    },
+    {
+      "true_label": "Shorts",
+      "predicted_label": "Shirts",
+      "count": 1
+    },
+    {
+      "true_label": "Shorts",
+      "predicted_label": "Tops",
+      "count": 1
+    },
+    {
+      "true_label": "Briefs",
+      "predicted_label": "Tshirts",
+      "count": 1
+    },
+    {
+      "true_label": "Shorts",
+      "predicted_label": "Tshirts",
+      "count": 1
+    },
+    {
+      "true_label": "Briefs",
+      "predicted_label": "Shorts",
+      "count": 1
+    }
+  ],
+  "hardest_rows": [
+    {
+      "trial": 111,
+      "query_index": 2713,
+      "true_label": "Jeans",
+      "predicted_label": "Trousers",
+      "closest_distance": 0.0869
+    },
+    {
+      "trial": 18,
+      "query_index": 2788,
+      "true_label": "Shirts",
+      "predicted_label": "Tshirts",
+      "closest_distance": 0.1045
+    },
+    {
+      "trial": 43,
+      "query_index": 1492,
+      "true_label": "Trousers",
+      "predicted_label": "Jeans",
+      "closest_distance": 0.1071
+    },
+    {
+      "trial": 35,
+      "query_index": 359,
+      "true_label": "Jeans",
+      "predicted_label": "Trousers",
+      "closest_distance": 0.1331
+    },
+    {
+      "trial": 78,
+      "query_index": 2197,
+      "true_label": "Trousers",
+      "predicted_label": "Jeans",
+      "closest_distance": 0.1373
+    },
+    {
+      "trial": 0,
+      "query_index": 367,
+      "true_label": "Shirts",
+      "predicted_label": "Tshirts",
+      "closest_distance": 0.1379
+    },
+    {
+      "trial": 129,
+      "query_index": 2683,
+      "true_label": "Jeans",
+      "predicted_label": "Trousers",
+      "closest_distance": 0.1418
+    },
+    {
+      "trial": 39,
+      "query_index": 88,
+      "true_label": "Jeans",
+      "predicted_label": "Trousers",
+      "closest_distance": 0.1435
+    },
+    {
+      "trial": 59,
+      "query_index": 2365,
+      "true_label": "Trousers",
+      "predicted_label": "Shorts",
+      "closest_distance": 0.1521
+    },
+    {
+      "trial": 125,
+      "query_index": 2872,
+      "true_label": "Jeans",
+      "predicted_label": "Shorts",
+      "closest_distance": 0.1587
+    }
+  ]
+}

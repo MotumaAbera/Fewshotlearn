@@ -1,0 +1,8 @@
+metric,value
+Dataset,Fashion-MNIST
+Best Validation Loss,0.228
+Final Train Pair Accuracy,0.6267
+Final Validation Pair Accuracy,0.6167
+One-Shot Accuracy,0.65
+Embedding Dimension,32
+Contrastive Margin,1.0

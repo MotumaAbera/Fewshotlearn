@@ -1,0 +1,75 @@
+{
+  "failure_count": 6,
+  "total_trials": 200,
+  "confusion_rows": [
+    {
+      "true_label": "9",
+      "predicted_label": "8",
+      "count": 2
+    },
+    {
+      "true_label": "8",
+      "predicted_label": "5",
+      "count": 1
+    },
+    {
+      "true_label": "0",
+      "predicted_label": "6",
+      "count": 1
+    },
+    {
+      "true_label": "6",
+      "predicted_label": "5",
+      "count": 1
+    },
+    {
+      "true_label": "3",
+      "predicted_label": "0",
+      "count": 1
+    }
+  ],
+  "hardest_rows": [
+    {
+      "trial": 62,
+      "query_index": 8325,
+      "true_label": "0",
+      "predicted_label": "6",
+      "closest_distance": 0.2158
+    },
+    {
+      "trial": 59,
+      "query_index": 7874,
+      "true_label": "9",
+      "predicted_label": "8",
+      "closest_distance": 0.3346
+    },
+    {
+      "trial": 44,
+      "query_index": 6578,
+      "true_label": "8",
+      "predicted_label": "5",
+      "closest_distance": 0.41
+    },
+    {
+      "trial": 13,
+      "query_index": 7874,
+      "true_label": "9",
+      "predicted_label": "8",
+      "closest_distance": 0.4119
+    },
+    {
+      "trial": 127,
+      "query_index": 7078,
+      "true_label": "6",
+      "predicted_label": "5",
+      "closest_distance": 0.7001
+    },
+    {
+      "trial": 145,
+      "query_index": 5955,
+      "true_label": "3",
+      "predicted_label": "0",
+      "closest_distance": 0.7139
+    }
+  ]
+}

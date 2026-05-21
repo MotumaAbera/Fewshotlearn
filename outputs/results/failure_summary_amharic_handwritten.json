@@ -1,0 +1,548 @@
+{
+  "failure_count": 95,
+  "total_trials": 200,
+  "confusion_rows": [
+    {
+      "true_label": "114",
+      "predicted_label": "184",
+      "count": 2
+    },
+    {
+      "true_label": "161",
+      "predicted_label": "100",
+      "count": 1
+    },
+    {
+      "true_label": "173",
+      "predicted_label": "61",
+      "count": 1
+    },
+    {
+      "true_label": "153",
+      "predicted_label": "267",
+      "count": 1
+    },
+    {
+      "true_label": "76",
+      "predicted_label": "249",
+      "count": 1
+    },
+    {
+      "true_label": "286",
+      "predicted_label": "242",
+      "count": 1
+    },
+    {
+      "true_label": "151",
+      "predicted_label": "11",
+      "count": 1
+    },
+    {
+      "true_label": "229",
+      "predicted_label": "280",
+      "count": 1
+    },
+    {
+      "true_label": "48",
+      "predicted_label": "276",
+      "count": 1
+    },
+    {
+      "true_label": "174",
+      "predicted_label": "191",
+      "count": 1
+    },
+    {
+      "true_label": "153",
+      "predicted_label": "71",
+      "count": 1
+    },
+    {
+      "true_label": "53",
+      "predicted_label": "130",
+      "count": 1
+    },
+    {
+      "true_label": "229",
+      "predicted_label": "147",
+      "count": 1
+    },
+    {
+      "true_label": "120",
+      "predicted_label": "108",
+      "count": 1
+    },
+    {
+      "true_label": "244",
+      "predicted_label": "160",
+      "count": 1
+    },
+    {
+      "true_label": "247",
+      "predicted_label": "7",
+      "count": 1
+    },
+    {
+      "true_label": "210",
+      "predicted_label": "205",
+      "count": 1
+    },
+    {
+      "true_label": "98",
+      "predicted_label": "90",
+      "count": 1
+    },
+    {
+      "true_label": "31",
+      "predicted_label": "271",
+      "count": 1
+    },
+    {
+      "true_label": "86",
+      "predicted_label": "222",
+      "count": 1
+    },
+    {
+      "true_label": "270",
+      "predicted_label": "266",
+      "count": 1
+    },
+    {
+      "true_label": "276",
+      "predicted_label": "104",
+      "count": 1
+    },
+    {
+      "true_label": "211",
+      "predicted_label": "89",
+      "count": 1
+    },
+    {
+      "true_label": "202",
+      "predicted_label": "275",
+      "count": 1
+    },
+    {
+      "true_label": "279",
+      "predicted_label": "74",
+      "count": 1
+    },
+    {
+      "true_label": "31",
+      "predicted_label": "222",
+      "count": 1
+    },
+    {
+      "true_label": "213",
+      "predicted_label": "265",
+      "count": 1
+    },
+    {
+      "true_label": "68",
+      "predicted_label": "268",
+      "count": 1
+    },
+    {
+      "true_label": "263",
+      "predicted_label": "2",
+      "count": 1
+    },
+    {
+      "true_label": "223",
+      "predicted_label": "227",
+      "count": 1
+    },
+    {
+      "true_label": "224",
+      "predicted_label": "56",
+      "count": 1
+    },
+    {
+      "true_label": "14",
+      "predicted_label": "227",
+      "count": 1
+    },
+    {
+      "true_label": "29",
+      "predicted_label": "266",
+      "count": 1
+    },
+    {
+      "true_label": "163",
+      "predicted_label": "140",
+      "count": 1
+    },
+    {
+      "true_label": "205",
+      "predicted_label": "168",
+      "count": 1
+    },
+    {
+      "true_label": "129",
+      "predicted_label": "109",
+      "count": 1
+    },
+    {
+      "true_label": "23",
+      "predicted_label": "20",
+      "count": 1
+    },
+    {
+      "true_label": "219",
+      "predicted_label": "247",
+      "count": 1
+    },
+    {
+      "true_label": "261",
+      "predicted_label": "197",
+      "count": 1
+    },
+    {
+      "true_label": "128",
+      "predicted_label": "118",
+      "count": 1
+    },
+    {
+      "true_label": "26",
+      "predicted_label": "74",
+      "count": 1
+    },
+    {
+      "true_label": "5",
+      "predicted_label": "165",
+      "count": 1
+    },
+    {
+      "true_label": "60",
+      "predicted_label": "64",
+      "count": 1
+    },
+    {
+      "true_label": "5",
+      "predicted_label": "166",
+      "count": 1
+    },
+    {
+      "true_label": "75",
+      "predicted_label": "220",
+      "count": 1
+    },
+    {
+      "true_label": "42",
+      "predicted_label": "107",
+      "count": 1
+    },
+    {
+      "true_label": "60",
+      "predicted_label": "172",
+      "count": 1
+    },
+    {
+      "true_label": "105",
+      "predicted_label": "173",
+      "count": 1
+    },
+    {
+      "true_label": "108",
+      "predicted_label": "40",
+      "count": 1
+    },
+    {
+      "true_label": "16",
+      "predicted_label": "81",
+      "count": 1
+    },
+    {
+      "true_label": "68",
+      "predicted_label": "99",
+      "count": 1
+    },
+    {
+      "true_label": "249",
+      "predicted_label": "265",
+      "count": 1
+    },
+    {
+      "true_label": "66",
+      "predicted_label": "128",
+      "count": 1
+    },
+    {
+      "true_label": "166",
+      "predicted_label": "93",
+      "count": 1
+    },
+    {
+      "true_label": "263",
+      "predicted_label": "228",
+      "count": 1
+    },
+    {
+      "true_label": "68",
+      "predicted_label": "59",
+      "count": 1
+    },
+    {
+      "true_label": "225",
+      "predicted_label": "261",
+      "count": 1
+    },
+    {
+      "true_label": "57",
+      "predicted_label": "39",
+      "count": 1
+    },
+    {
+      "true_label": "280",
+      "predicted_label": "144",
+      "count": 1
+    },
+    {
+      "true_label": "135",
+      "predicted_label": "50",
+      "count": 1
+    },
+    {
+      "true_label": "272",
+      "predicted_label": "115",
+      "count": 1
+    },
+    {
+      "true_label": "93",
+      "predicted_label": "232",
+      "count": 1
+    },
+    {
+      "true_label": "136",
+      "predicted_label": "201",
+      "count": 1
+    },
+    {
+      "true_label": "63",
+      "predicted_label": "59",
+      "count": 1
+    },
+    {
+      "true_label": "87",
+      "predicted_label": "155",
+      "count": 1
+    },
+    {
+      "true_label": "135",
+      "predicted_label": "51",
+      "count": 1
+    },
+    {
+      "true_label": "15",
+      "predicted_label": "101",
+      "count": 1
+    },
+    {
+      "true_label": "278",
+      "predicted_label": "11",
+      "count": 1
+    },
+    {
+      "true_label": "176",
+      "predicted_label": "121",
+      "count": 1
+    },
+    {
+      "true_label": "134",
+      "predicted_label": "13",
+      "count": 1
+    },
+    {
+      "true_label": "56",
+      "predicted_label": "70",
+      "count": 1
+    },
+    {
+      "true_label": "11",
+      "predicted_label": "102",
+      "count": 1
+    },
+    {
+      "true_label": "29",
+      "predicted_label": "261",
+      "count": 1
+    },
+    {
+      "true_label": "213",
+      "predicted_label": "95",
+      "count": 1
+    },
+    {
+      "true_label": "78",
+      "predicted_label": "266",
+      "count": 1
+    },
+    {
+      "true_label": "74",
+      "predicted_label": "141",
+      "count": 1
+    },
+    {
+      "true_label": "254",
+      "predicted_label": "218",
+      "count": 1
+    },
+    {
+      "true_label": "249",
+      "predicted_label": "144",
+      "count": 1
+    },
+    {
+      "true_label": "219",
+      "predicted_label": "87",
+      "count": 1
+    },
+    {
+      "true_label": "59",
+      "predicted_label": "260",
+      "count": 1
+    },
+    {
+      "true_label": "87",
+      "predicted_label": "159",
+      "count": 1
+    },
+    {
+      "true_label": "198",
+      "predicted_label": "141",
+      "count": 1
+    },
+    {
+      "true_label": "264",
+      "predicted_label": "79",
+      "count": 1
+    },
+    {
+      "true_label": "124",
+      "predicted_label": "116",
+      "count": 1
+    },
+    {
+      "true_label": "104",
+      "predicted_label": "64",
+      "count": 1
+    },
+    {
+      "true_label": "98",
+      "predicted_label": "269",
+      "count": 1
+    },
+    {
+      "true_label": "213",
+      "predicted_label": "131",
+      "count": 1
+    },
+    {
+      "true_label": "128",
+      "predicted_label": "48",
+      "count": 1
+    },
+    {
+      "true_label": "193",
+      "predicted_label": "190",
+      "count": 1
+    },
+    {
+      "true_label": "159",
+      "predicted_label": "223",
+      "count": 1
+    },
+    {
+      "true_label": "64",
+      "predicted_label": "195",
+      "count": 1
+    },
+    {
+      "true_label": "31",
+      "predicted_label": "255",
+      "count": 1
+    },
+    {
+      "true_label": "171",
+      "predicted_label": "9",
+      "count": 1
+    },
+    {
+      "true_label": "100",
+      "predicted_label": "155",
+      "count": 1
+    }
+  ],
+  "hardest_rows": [
+    {
+      "trial": 115,
+      "query_index": 43,
+      "true_label": "105",
+      "predicted_label": "173",
+      "closest_distance": 0.092
+    },
+    {
+      "trial": 153,
+      "query_index": 995,
+      "true_label": "278",
+      "predicted_label": "11",
+      "closest_distance": 0.1125
+    },
+    {
+      "trial": 150,
+      "query_index": 289,
+      "true_label": "15",
+      "predicted_label": "101",
+      "closest_distance": 0.1292
+    },
+    {
+      "trial": 112,
+      "query_index": 1122,
+      "true_label": "42",
+      "predicted_label": "107",
+      "closest_distance": 0.1309
+    },
+    {
+      "trial": 108,
+      "query_index": 1160,
+      "true_label": "5",
+      "predicted_label": "165",
+      "closest_distance": 0.131
+    },
+    {
+      "trial": 3,
+      "query_index": 305,
+      "true_label": "153",
+      "predicted_label": "267",
+      "closest_distance": 0.143
+    },
+    {
+      "trial": 134,
+      "query_index": 709,
+      "true_label": "225",
+      "predicted_label": "261",
+      "closest_distance": 0.1439
+    },
+    {
+      "trial": 57,
+      "query_index": 956,
+      "true_label": "270",
+      "predicted_label": "266",
+      "closest_distance": 0.1459
+    },
+    {
+      "trial": 181,
+      "query_index": 920,
+      "true_label": "264",
+      "predicted_label": "79",
+      "closest_distance": 0.165
+    },
+    {
+      "trial": 15,
+      "query_index": 1153,
+      "true_label": "48",
+      "predicted_label": "276",
+      "closest_distance": 0.1651
+    }
+  ]
+}

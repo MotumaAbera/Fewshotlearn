@@ -1,0 +1,8 @@
+metric,value
+Dataset,Ethiopian Cultural Clothing and Textile
+Best Validation Loss,0.0029
+Final Train Pair Accuracy,0.6667
+Final Validation Pair Accuracy,1.0
+One-Shot Accuracy,1.0
+Embedding Dimension,32
+Contrastive Margin,1.0

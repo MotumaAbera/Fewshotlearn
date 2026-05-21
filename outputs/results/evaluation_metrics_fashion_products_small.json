@@ -1,0 +1,17 @@
+{
+  "dataset": "Fashion Product Images Small",
+  "device": "cpu",
+  "best_epoch": 5,
+  "best_val_loss": 0.1242016783952713,
+  "final_train_loss": 0.13281242088476816,
+  "final_val_loss": 0.1242016783952713,
+  "final_train_pair_accuracy": 0.8103333333333333,
+  "final_val_pair_accuracy": 0.8315,
+  "one_shot_accuracy": 0.69,
+  "embedding_dim": 32,
+  "margin": 1.0,
+  "epochs_ran": 5,
+  "one_shot_way": 5,
+  "effective_one_shot_way": 5,
+  "one_shot_trials": 200
+}

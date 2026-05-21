@@ -1,0 +1,8 @@
+metric,value
+Dataset,Fashion Product Images Small
+Best Validation Loss,0.1242
+Final Train Pair Accuracy,0.8103
+Final Validation Pair Accuracy,0.8315
+One-Shot Accuracy,0.69
+Embedding Dimension,32
+Contrastive Margin,1.0

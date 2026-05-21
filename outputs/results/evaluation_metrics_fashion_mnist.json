@@ -1,0 +1,16 @@
+{
+  "dataset": "Fashion-MNIST",
+  "device": "cpu",
+  "best_epoch": 1,
+  "best_val_loss": 0.2279559185107549,
+  "final_train_loss": 0.24186443626880647,
+  "final_val_loss": 0.2279559185107549,
+  "final_train_pair_accuracy": 0.6266666666666667,
+  "final_val_pair_accuracy": 0.6166666666666667,
+  "one_shot_accuracy": 0.65,
+  "embedding_dim": 32,
+  "margin": 1.0,
+  "epochs_ran": 1,
+  "one_shot_way": 5,
+  "one_shot_trials": 20
+}
